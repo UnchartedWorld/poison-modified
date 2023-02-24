@@ -1,0 +1,8 @@
+.sidebar-about h1 {
+    color: var(--sidebar-h1-color);
+    margin-top: 0;
+    font-weight:300;
+    font-size: 1.3em;
+    overflow-wrap: break-word;
+    font-family: "Abril Fatface", serif;
+  }
